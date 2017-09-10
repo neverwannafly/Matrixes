@@ -1,0 +1,7 @@
+Need to include following functionalities ->
+
+***Segregate the main.cpp into header files!*** //Done
+
+1) Finding Determinant *Use recursion*
+2) Find Adjoint of a matrix
+3) Include a function to be able to find inverse of a matrix
